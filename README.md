@@ -3,7 +3,9 @@
 meu nome e tais cristini
 
 estou estudando alura
+
 estou me desenvolvendo na lingugem javaScript
+
 utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 ### voce entrar em contato📫
